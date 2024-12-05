@@ -1,0 +1,1 @@
+Instead of using overly specific selectors, try to use more general selectors to apply styles to the desired elements. If needed use the `!important` flag cautiously. Avoid nesting selectors deeply. Consider using classes or attribute selectors for more specific styling needs when necessary.
