@@ -1,0 +1,1 @@
+The CSS code uses a selector that's too specific, causing it to only apply to a very limited number of elements.  This can happen when you accidentally nest selectors too deeply or use overly specific IDs or classes.
